@@ -5,7 +5,7 @@ Configuration Sample_xUnity {
     param 
     (       
         [System.String]
-        $Version = '2017.4.2f2',
+        $Version = '2022.2.20f1',
 
         [ValidateSet('Present', 'Absent')]
         [System.String]
